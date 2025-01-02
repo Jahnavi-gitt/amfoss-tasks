@@ -46,7 +46,7 @@
    [The required spell file was added to the main branch and part 4 was successfully completed as we got the required secret code.]
 
 15. **`echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs" | base64 --decode`**
-   Used to decode the secret which was encoded in base64 into a readable format. 
+    Used to decode the secret which was encoded in base64 into a readable format. 
 
 16. **`git clone https://github.com/TheHuntsman4/TheFinalSpell.git`**  
    Used to clone the repository to the system.[Github repository URL was btained by decoding the secret which was encoded in base64]  
