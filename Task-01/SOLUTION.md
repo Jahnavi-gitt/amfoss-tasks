@@ -45,10 +45,13 @@
    Used to copy the appropriate spell from a different branch `thegraveyard` into `spellbook` of the `main` branch.  
    [The required spell file was added to the main branch and part 4 was successfully completed as we got the required secret code.]
 
-15. **`git clone https://github.com/TheHuntsman4/TheFinalSpell.git`**  
-   Used to clone the repository to the system.  
-   Below is a screenshot of the message in the text file (which was present in `TheFinalSpell` directory).  
-   ![alt text](image-1.png)
+15. **`echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs" | base64 --decode`**
+   Used to decode the secret which was encoded in base64 into a readable format. 
+
+16. **`git clone https://github.com/TheHuntsman4/TheFinalSpell.git`**  
+   Used to clone the repository to the system.[Github repository URL was btained by decoding the secret which was encoded in base64]  
+   Below is a screenshot of the message in the text file (which was present in `TheFinalSpell` directory).
+   ![alt text](amfoss-tasks/Task-01/image.png)
 
 ---
 
