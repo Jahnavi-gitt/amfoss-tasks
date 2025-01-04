@@ -1,0 +1,1 @@
+This was a fun task to do,I got to know how to extract text from an image using pillow library and OCR through tesseract (pytesseract library) in python.
