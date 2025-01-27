@@ -1,0 +1,2 @@
+It was a very nice task, I was able to learn basics of html and css while doing the different parts. It was interesting and fun to encoperate sounds into the webpage, hearing the immediate results reinforced my understanding of event listeners.Also learnt how to link external stylesheets,styling buttons with background colours and fonts.
+This task inspired me to experiment with new ideas in the future.
